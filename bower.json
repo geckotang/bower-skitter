@@ -12,6 +12,7 @@
     "sample"
   ],
   "dependencies": {
-    "jquery": "~2.1.1"
+    "jquery": "~2.1.1",
+    "jquery.easing": "git@github.com:jozefizso/bower-jquery-easing.git"
   }
 }
