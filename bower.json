@@ -1,0 +1,22 @@
+{
+  "name": "bower-skitter",
+  "version": "0.0.0",
+  "description": "A bower wrapper of SkitterSlideshow",
+  "main": "js/jquery.skitter.js",
+  "authors": [
+    "cancer"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+    "sample""
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
