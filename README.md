@@ -4,7 +4,7 @@ A bower wrapper of [SkitterSlideshow](https://github.com/thiagosf/SkitterSlidesh
 # Install
 
 ```
-bower install https://github.com/cancer/SkitterSlideshow
+bower install https://github.com/cancer/bower-skitter
 ```
 
 # Usage
