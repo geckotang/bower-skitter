@@ -7,7 +7,6 @@
     "cancer"
   ],
   "license": "MIT",
-  "private": true,
   "ignore": [
     "bower_components",
     "sample"
